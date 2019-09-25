@@ -2,6 +2,7 @@
     "hosting": {
         "public": "archive",
         "ignore": [
+            ".firebase/**",
             "firebase.json",
             "LICENSE",
             "README.md"
