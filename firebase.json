@@ -1,0 +1,20 @@
+{
+    "hosting": {
+        "public": "archive",
+        "ignore": [
+            ".firebase/**",
+            "firebase.json",
+            "LICENSE",
+            "README.md"
+        ],
+        "redirects": [
+            {
+                "source": "/",
+                "destination": "/2019",
+                "type": 302
+            }
+        ],
+        "cleanUrls": true,
+        "trailingSlash": false
+    }
+}
