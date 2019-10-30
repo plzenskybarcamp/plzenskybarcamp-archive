@@ -9,9 +9,9 @@
         ],
         "redirects": [
             {
-                "source": "/",
-                "destination": "/2019",
-                "type": 302
+                "source": "/plzenakovo-slovnicek-pojmu",
+                "destination": "/2019/plzenakovo-slovnicek-pojmu",
+                "type": 301
             }
         ],
         "cleanUrls": true,
