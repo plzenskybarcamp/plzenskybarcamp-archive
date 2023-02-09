@@ -1,20 +1,20 @@
 {
-    "hosting": {
-        "public": "archive",
-        "ignore": [
-            ".firebase/**",
-            "firebase.json",
-            "LICENSE",
-            "README.md"
-        ],
-        "redirects": [
-            {
-                "source": "/plzenakovo-slovnicek-pojmu",
-                "destination": "/2019/plzenakovo-slovnicek-pojmu",
-                "type": 301
-            }
-        ],
-        "cleanUrls": true,
-        "trailingSlash": false
-    }
+  "hosting": {
+    "public": "archive",
+    "ignore": [
+      ".firebase/**",
+      "firebase.json",
+      "LICENSE",
+      "README.md"
+    ],
+    "redirects": [
+      {
+        "source": "/plzenakovo-slovnicek-pojmu",
+        "destination": "/2019/plzenakovo-slovnicek-pojmu",
+        "type": 301
+      }
+    ],
+    "cleanUrls": true,
+    "trailingSlash": false
+  }
 }
