@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "plzenskybarcamp"
+  },
+  "targets": {
+    "plzenskybarcamp": {
+      "hosting": {
+        "default": [
+          "plzenskybarcamp"
+        ]
+      }
+    }
+  }
+}
